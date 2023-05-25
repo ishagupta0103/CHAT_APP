@@ -6,4 +6,5 @@ A simple web chat app using Node.js, Socket.io, Express.js and jQuery
 `cd chat_app`  
 `npm install`  
 `node server.js`  
-go to `localhost:0808`
+go to `localhost:0808` in your web browser  
+happy chatting!!☺
