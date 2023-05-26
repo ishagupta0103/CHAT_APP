@@ -7,8 +7,8 @@ A simple web chat app using Node.js, Socket.io, Express.js and jQuery to chat on
 
 # Quick Start 🚀
 `git clone https://github.com/ishagupta0103/CHAT_APP.git`  
-`cd chat_app`  
+`cd CHAT_APP`  
 `npm install`  
-`node server.js`  
+`node index.js`  
 go to `localhost:1908` in your web browser  
 happy chatting!!☺
